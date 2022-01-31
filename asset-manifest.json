@@ -1,23 +1,29 @@
 {
   "files": {
-    "main.css": "/static/css/main.a617e044.chunk.css",
-    "main.js": "/static/js/main.f4900869.chunk.js",
-    "main.js.map": "/static/js/main.f4900869.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.90b98fc7.js",
-    "runtime-main.js.map": "/static/js/runtime-main.90b98fc7.js.map",
-    "static/js/2.2a719369.chunk.js": "/static/js/2.2a719369.chunk.js",
-    "static/js/2.2a719369.chunk.js.map": "/static/js/2.2a719369.chunk.js.map",
-    "static/js/3.4ebf436a.chunk.js": "/static/js/3.4ebf436a.chunk.js",
-    "static/js/3.4ebf436a.chunk.js.map": "/static/js/3.4ebf436a.chunk.js.map",
+    "main.css": "/static/css/main.be470bf8.chunk.css",
+    "main.js": "/static/js/main.a88c2373.chunk.js",
+    "main.js.map": "/static/js/main.a88c2373.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.2edb104d.js",
+    "runtime-main.js.map": "/static/js/runtime-main.2edb104d.js.map",
+    "static/css/2.8c0e6b67.chunk.css": "/static/css/2.8c0e6b67.chunk.css",
+    "static/js/2.76f5a7c7.chunk.js": "/static/js/2.76f5a7c7.chunk.js",
+    "static/js/2.76f5a7c7.chunk.js.map": "/static/js/2.76f5a7c7.chunk.js.map",
+    "static/js/3.38f47aba.chunk.js": "/static/js/3.38f47aba.chunk.js",
+    "static/js/3.38f47aba.chunk.js.map": "/static/js/3.38f47aba.chunk.js.map",
     "index.html": "/index.html",
-    "static/css/main.a617e044.chunk.css.map": "/static/css/main.a617e044.chunk.css.map",
-    "static/js/2.2a719369.chunk.js.LICENSE.txt": "/static/js/2.2a719369.chunk.js.LICENSE.txt",
-    "static/media/logo.6ce24c58.svg": "/static/media/logo.6ce24c58.svg"
+    "static/css/2.8c0e6b67.chunk.css.map": "/static/css/2.8c0e6b67.chunk.css.map",
+    "static/css/main.be470bf8.chunk.css.map": "/static/css/main.be470bf8.chunk.css.map",
+    "static/js/2.76f5a7c7.chunk.js.LICENSE.txt": "/static/js/2.76f5a7c7.chunk.js.LICENSE.txt",
+    "static/media/cc-logo.093d6923.png": "/static/media/cc-logo.093d6923.png",
+    "static/media/dunes.2a1e12c4.png": "/static/media/dunes.2a1e12c4.png",
+    "static/media/pitt-logo.36016cbb.png": "/static/media/pitt-logo.36016cbb.png",
+    "static/media/profile.5dee0824.png": "/static/media/profile.5dee0824.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.90b98fc7.js",
-    "static/js/2.2a719369.chunk.js",
-    "static/css/main.a617e044.chunk.css",
-    "static/js/main.f4900869.chunk.js"
+    "static/js/runtime-main.2edb104d.js",
+    "static/css/2.8c0e6b67.chunk.css",
+    "static/js/2.76f5a7c7.chunk.js",
+    "static/css/main.be470bf8.chunk.css",
+    "static/js/main.a88c2373.chunk.js"
   ]
 }
